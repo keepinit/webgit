@@ -1,2 +1,2 @@
 FROM hshar/webapp
-ADD ./webgit /var/www/html/web
+ADD ./webgit /var/www/html/webgit
