@@ -1,1 +1,2 @@
-ADD ./web /var/www/html/web
+FROM hshar/webapp
+ADD ./devopsIQ /var/www/html/devopsIQ
